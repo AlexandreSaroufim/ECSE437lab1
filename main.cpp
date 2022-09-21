@@ -1,3 +1,7 @@
+#Alexandre Saroufim
+#260886799
+#Mohammad Saeid Nafar
+#260899098
 #include<iostream>
 using namespace std;
 int main ()

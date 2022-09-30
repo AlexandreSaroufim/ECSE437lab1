@@ -16,6 +16,23 @@
       "message": "Hi",
       "revId": "92fe156b4e258acc0047fe5233708e478d6f6ec3",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37c144ea_2f530cbe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020565
+      },
+      "writtenOn": "2022-09-30T16:56:41Z",
+      "side": 1,
+      "message": "Hello Saeid, could you check my first gerrithub commit 🎉",
+      "revId": "92fe156b4e258acc0047fe5233708e478d6f6ec3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
